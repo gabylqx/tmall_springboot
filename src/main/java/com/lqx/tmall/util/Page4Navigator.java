@@ -42,7 +42,7 @@ public class Page4Navigator<T> {
     //是否有下一页
     boolean isHasNext;
 
-    //是否有上一页
+    //是否有上一页1
     boolean isHasPrevious;
 
     //分页的时候 ,如果总页数比较多，那么显示出来的分页超链一个有几个。 比如如果分页出来的超链是这样的： [8,9,10,11,12]，那么 navigatepageNums 就是这个数组：[8,9,10,11,12]，这样便于前端展示
